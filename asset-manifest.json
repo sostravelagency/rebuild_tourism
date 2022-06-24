@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rebuild_tourism/static/css/main.318d8eaa.css",
-    "main.js": "/rebuild_tourism/static/js/main.2854237a.js",
+    "main.js": "/rebuild_tourism/static/js/main.46aaacf0.js",
     "static/js/787.b4cdd736.chunk.js": "/rebuild_tourism/static/js/787.b4cdd736.chunk.js",
     "static/media/fi6.jpg": "/rebuild_tourism/static/media/fi6.11b3e446afa6fdec675f.jpg",
     "static/media/o20.png": "/rebuild_tourism/static/media/o20.6ead2df355fa49bb4bcf.png",
@@ -119,11 +119,11 @@
     "static/media/t9.jpg": "/rebuild_tourism/static/media/t9.281692792438beb06697.jpg",
     "index.html": "/rebuild_tourism/index.html",
     "main.318d8eaa.css.map": "/rebuild_tourism/static/css/main.318d8eaa.css.map",
-    "main.2854237a.js.map": "/rebuild_tourism/static/js/main.2854237a.js.map",
+    "main.46aaacf0.js.map": "/rebuild_tourism/static/js/main.46aaacf0.js.map",
     "787.b4cdd736.chunk.js.map": "/rebuild_tourism/static/js/787.b4cdd736.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.318d8eaa.css",
-    "static/js/main.2854237a.js"
+    "static/js/main.46aaacf0.js"
   ]
 }
